@@ -1,0 +1,280 @@
+{
+    "Fortify Health Potion": {
+        "Effects": [
+            "fortify health"
+        ],
+        "Recipes": [
+            [
+                {
+                    "ID": "SXXXXXX0",
+                    "Name": "Ingredient 0's Name",
+                    "Effects": [
+                        "restore stamina",
+                        "fortify health",
+                        "fortify one-handed",
+                        "damage magicka regen"
+                    ],
+                    "Description": "Sample Description: Collected from various types of..."
+                },
+                {
+                    "ID": "CCXXXXX0",
+                    "Name": "Ingredient 0's Name",
+                    "Effects": [
+                        "restore health",
+                        "regenerate health",
+                        "fortify health",
+                        "cure poison"
+                    ],
+                    "Description": "Sample Description: One of the Rare Curios sold by Khajiit trade caravans"
+                },
+                {
+                    "ID": "SXXXXXX1",
+                    "Name": "Ingredient 1's Name",
+                    "Effects": [
+                        "restore health",
+                        "fortify conjuration",
+                        "fortify health",
+                        "damage magicka regen"
+                    ],
+                    "Description": "Leave blank if description is unavailiable"
+                },
+                {
+                    "ID": "CCXXXXX1",
+                    "Name": "Ingredient 1's Name",
+                    "Effects": [
+                        "restore health",
+                        "fortify health",
+                        "fortify one-handed",
+                        "fortify two-handed"
+                    ],
+                    "Description": "Leave blank if description is unavailiable"
+                },
+                {
+                    "ID": "SXXXXXX2",
+                    "Name": "Ingredient 2's Name",
+                    "Effects": [
+                        "restore health",
+                        "fortify health",
+                        "damage stamina regen",
+                        "lingering damage magicka"
+                    ],
+                    "Description": NaN
+                },
+                {
+                    "ID": "CCXXXXX2",
+                    "Name": "Ingredient 2's Name",
+                    "Effects": [
+                        "restore health",
+                        "fortify health",
+                        "fortify stamina",
+                        "regenerate health"
+                    ],
+                    "Description": NaN
+                },
+                {
+                    "ID": "CCXXXXX5",
+                    "Name": "Ingredient 5's Name",
+                    "Effects": [
+                        "restore magicka",
+                        "fortify health",
+                        "fortify stamina",
+                        "waterbreathing"
+                    ],
+                    "Description": NaN
+                }
+            ]
+        ]
+    },
+    "Restore Health Potion": {
+        "Effects": [
+            "restore health"
+        ],
+        "Recipes": [
+            [
+                {
+                    "ID": "CCXXXXX0",
+                    "Name": "Ingredient 0's Name",
+                    "Effects": [
+                        "restore health",
+                        "regenerate health",
+                        "fortify health",
+                        "cure poison"
+                    ],
+                    "Description": "Sample Description: One of the Rare Curios sold by Khajiit trade caravans"
+                },
+                {
+                    "ID": "SXXXXXX1",
+                    "Name": "Ingredient 1's Name",
+                    "Effects": [
+                        "restore health",
+                        "fortify conjuration",
+                        "fortify health",
+                        "damage magicka regen"
+                    ],
+                    "Description": "Leave blank if description is unavailiable"
+                },
+                {
+                    "ID": "CCXXXXX1",
+                    "Name": "Ingredient 1's Name",
+                    "Effects": [
+                        "restore health",
+                        "fortify health",
+                        "fortify one-handed",
+                        "fortify two-handed"
+                    ],
+                    "Description": "Leave blank if description is unavailiable"
+                },
+                {
+                    "ID": "SXXXXXX2",
+                    "Name": "Ingredient 2's Name",
+                    "Effects": [
+                        "restore health",
+                        "fortify health",
+                        "damage stamina regen",
+                        "lingering damage magicka"
+                    ],
+                    "Description": NaN
+                },
+                {
+                    "ID": "CCXXXXX2",
+                    "Name": "Ingredient 2's Name",
+                    "Effects": [
+                        "restore health",
+                        "fortify health",
+                        "fortify stamina",
+                        "regenerate health"
+                    ],
+                    "Description": NaN
+                },
+                {
+                    "ID": "CCXXXXX4",
+                    "Name": "Ingredient 4's Name",
+                    "Effects": [
+                        "restore stamina",
+                        "fortify magicka",
+                        "damage stamina regen",
+                        "restore health"
+                    ],
+                    "Description": NaN
+                }
+            ]
+        ]
+    },
+    "Fortify Magicka Potion": {
+        "Effects": [
+            "fortify magicka"
+        ],
+        "Recipes": [
+            [
+                {
+                    "ID": "SXXXXXX3",
+                    "Name": "Ingredient 3's Name",
+                    "Effects": [
+                        "restore magicka",
+                        "fortify block",
+                        "paralysis",
+                        "fortify magicka"
+                    ],
+                    "Description": NaN
+                },
+                {
+                    "ID": "CCXXXXX3",
+                    "Name": "Ingredient 3's Name",
+                    "Effects": [
+                        "restore magicka",
+                        "fortify magicka",
+                        "night eye",
+                        "invisibility"
+                    ],
+                    "Description": NaN
+                },
+                {
+                    "ID": "SXXXXXX4",
+                    "Name": "Ingredient 4's Name",
+                    "Effects": [
+                        "restore magicka",
+                        "fortify destruction",
+                        "fortify magicka",
+                        "damage health"
+                    ],
+                    "Description": NaN
+                },
+                {
+                    "ID": "CCXXXXX4",
+                    "Name": "Ingredient 4's Name",
+                    "Effects": [
+                        "restore stamina",
+                        "fortify magicka",
+                        "damage stamina regen",
+                        "restore health"
+                    ],
+                    "Description": NaN
+                },
+                {
+                    "ID": "SXXXXXX5",
+                    "Name": "Ingredient 5's Name",
+                    "Effects": [
+                        "restore stamina",
+                        "fortify magicka",
+                        "damage stamina regen",
+                        "waterbreathing"
+                    ],
+                    "Description": NaN
+                }
+            ]
+        ]
+    },
+    "Restore Magicka Potion": {
+        "Effects": [
+            "restore magicka"
+        ],
+        "Recipes": [
+            [
+                {
+                    "ID": "SXXXXXX3",
+                    "Name": "Ingredient 3's Name",
+                    "Effects": [
+                        "restore magicka",
+                        "fortify block",
+                        "paralysis",
+                        "fortify magicka"
+                    ],
+                    "Description": NaN
+                },
+                {
+                    "ID": "CCXXXXX3",
+                    "Name": "Ingredient 3's Name",
+                    "Effects": [
+                        "restore magicka",
+                        "fortify magicka",
+                        "night eye",
+                        "invisibility"
+                    ],
+                    "Description": NaN
+                },
+                {
+                    "ID": "SXXXXXX4",
+                    "Name": "Ingredient 4's Name",
+                    "Effects": [
+                        "restore magicka",
+                        "fortify destruction",
+                        "fortify magicka",
+                        "damage health"
+                    ],
+                    "Description": NaN
+                },
+                {
+                    "ID": "CCXXXXX5",
+                    "Name": "Ingredient 5's Name",
+                    "Effects": [
+                        "restore magicka",
+                        "fortify health",
+                        "fortify stamina",
+                        "waterbreathing"
+                    ],
+                    "Description": NaN
+                }
+            ]
+        ]
+    }
+}
